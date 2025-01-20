@@ -1,2 +1,16 @@
-# TataMotors_project
-While i worked as a Flutter Development intern in Tata Motors I worked on a Project to create a mobile based application which can significantly alerts when the machines are online or offline in the different shops through notification using flutter and dart here's the prototype of what I created due to privacy of the company's data. 
+# tatamotors
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

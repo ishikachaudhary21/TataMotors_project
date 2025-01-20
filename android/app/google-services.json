@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "705045172346",
+    "project_id": "project-55b3f",
+    "storage_bucket": "project-55b3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705045172346:android:a88cc9fe0ea19af8572bc3",
+        "android_client_info": {
+          "package_name": "com.example.tatamotors"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfuG7Kh1Dggw5NEMXijmDRB6X8MBbaqQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
